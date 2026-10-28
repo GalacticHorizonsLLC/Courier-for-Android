@@ -1,4 +1,4 @@
-# Courier-for-Android <img width="512" height="512" alt="Courier" src="https://github.com/user-attachments/assets/b24fe4e2-1302-40a9-9ec7-57d1b4781620" />
+# Courier for Android <img width="512" height="512" alt="Courier" src="https://github.com/user-attachments/assets/b24fe4e2-1302-40a9-9ec7-57d1b4781620" />
 
 <img width="1024" height="500" alt="Courier-Banner" src="https://github.com/user-attachments/assets/43b527f8-c219-488a-8793-968f87a8d5d1" />
 
